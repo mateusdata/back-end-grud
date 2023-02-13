@@ -16,8 +16,8 @@ const DB =  Mysql.createConnection({
 var mysql = require('mysql2');
 var DB = mysql.createConnection({
   host: "us-east.connect.psdb.cloud",
-  user: "h77c1udv9nelh8m09816",
-  password: "pscale_pw_zr2hfkXbXVsp2wqgLvVTruHX5iz7n3FFe7F93GrPGoR",
+  user: "z4y7h4utvsjbmkad20g0",
+  password: "pscale_pw_VuayTH0LDFMaESf1CedsFHWzjUgGMKATivbDFBdkOQw",
   database: "mateusdata",
   ssl: {
     rejectUnauthorized: true
